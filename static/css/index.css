@@ -57,6 +57,10 @@ a:hover {
   text-decoration: none;
 }
 
+.signatures a:hover {
+  font-weight: normal;
+}
+
 .header-line {
   width: 100%;
   border-width: 3px;
